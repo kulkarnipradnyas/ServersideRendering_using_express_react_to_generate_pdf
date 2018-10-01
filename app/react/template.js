@@ -1,4 +1,4 @@
-import '../../app/public/index.css'
+
 export default ({ body,title,initialState = {} }) => {
   return `
     <!DOCTYPE html>
